@@ -1,2 +1,2 @@
 # BuildMenzies
-Build of Crappy Game
+Build of Crappy Game for testing purposes.
